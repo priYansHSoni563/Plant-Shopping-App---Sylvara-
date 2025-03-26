@@ -1,0 +1,11 @@
+flutter_native_splash: 
+ android: true
+ ios: true
+ web: false
+
+
+ color: "#ffffff"
+ background_image: assets/images/Sylvara Icon removebg.png
+ image: assets/images/Sylvara Icon removebg.png
+
+ 
